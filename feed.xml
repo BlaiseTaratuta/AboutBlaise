@@ -3,10 +3,32 @@
     <title>Blaise&#x27;s Website</title>
     <link href="https://blaisetaratuta.github.io/AboutBlaise/feed.xml" rel="self" />
     <link href="https://blaisetaratuta.github.io/AboutBlaise" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2025-04-21T15:55:48-04:00</updated>
     <author>
         <name>Blaise</name>
     </author>
     <id>https://blaisetaratuta.github.io/AboutBlaise</id>
 
+    <entry>
+        <title>Test Project Post</title>
+        <author>
+            <name>Blaise</name>
+        </author>
+        <link href="https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html"/>
+        <id>https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html</id>
+            <category term="My Projects"/>
+
+        <updated>2025-04-21T15:55:43-04:00</updated>
+            <summary>
+                <![CDATA[
+                    this is a test so see if this even works AHdhSjbfaskjfnasjfksaf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is a test so see if this even works</p>
+<p>AHdhSjbfaskjfnasjfksaf</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
