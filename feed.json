@@ -9,33 +9,5 @@
         "name": "Blaise"
     },
     "items": [
-        {
-            "id": "https://blaisetaratuta.github.io/AboutBlaise/test-post-2.html",
-            "url": "https://blaisetaratuta.github.io/AboutBlaise/test-post-2.html",
-            "title": "Test post 2",
-            "summary": "thius is some more junk",
-            "content_html": "<p>thius is some more junk</p>",
-            "author": {
-                "name": "Blaise"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-04-21T10:49:41-04:00",
-            "date_modified": "2025-04-21T10:49:41-04:00"
-        },
-        {
-            "id": "https://blaisetaratuta.github.io/AboutBlaise/test-post-1.html",
-            "url": "https://blaisetaratuta.github.io/AboutBlaise/test-post-1.html",
-            "title": "test post 1",
-            "summary": "this is some random test text",
-            "content_html": "<p>this is some random test text</p>",
-            "author": {
-                "name": "Blaise"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-04-21T10:49:32-04:00",
-            "date_modified": "2025-04-21T10:49:32-04:00"
-        }
     ]
 }
