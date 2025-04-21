@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blaisetaratuta.github.io/AboutBlaise/sitemap.xml

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Blaise&#x27;s Website</title>
+    <link href="https://blaisetaratuta.github.io/AboutBlaise/feed.xml" rel="self" />
+    <link href="https://blaisetaratuta.github.io/AboutBlaise" />
+    <updated>2025-04-21T10:49:41-04:00</updated>
+    <author>
+        <name>Blaise</name>
+    </author>
+    <id>https://blaisetaratuta.github.io/AboutBlaise</id>
+
+    <entry>
+        <title>Test post 2</title>
+        <author>
+            <name>Blaise</name>
+        </author>
+        <link href="https://blaisetaratuta.github.io/AboutBlaise/test-post-2.html"/>
+        <id>https://blaisetaratuta.github.io/AboutBlaise/test-post-2.html</id>
+
+        <updated>2025-04-21T10:49:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                    thius is some more junk
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>thius is some more junk</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test post 1</title>
+        <author>
+            <name>Blaise</name>
+        </author>
+        <link href="https://blaisetaratuta.github.io/AboutBlaise/test-post-1.html"/>
+        <id>https://blaisetaratuta.github.io/AboutBlaise/test-post-1.html</id>
+
+        <updated>2025-04-21T10:49:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                    this is some random test text
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is some random test text</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
