@@ -3,31 +3,34 @@
     <title>Blaise&#x27;s Website</title>
     <link href="https://blaisetaratuta.github.io/AboutBlaise/feed.xml" rel="self" />
     <link href="https://blaisetaratuta.github.io/AboutBlaise" />
-    <updated>2025-04-21T15:55:48-04:00</updated>
+    <updated>2025-04-21T16:32:54-04:00</updated>
     <author>
         <name>Blaise</name>
     </author>
     <id>https://blaisetaratuta.github.io/AboutBlaise</id>
 
     <entry>
-        <title>Test Project Post</title>
+        <title>I Designed My First Circuit Board</title>
         <author>
             <name>Blaise</name>
         </author>
         <link href="https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html"/>
         <id>https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html</id>
+        <media:content url="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109-2.jpg" medium="image" />
             <category term="My Projects"/>
 
-        <updated>2025-04-21T15:55:43-04:00</updated>
+        <updated>2024-07-03T15:00:00-04:00</updated>
             <summary>
                 <![CDATA[
-                    this is a test so see if this even works AHdhSjbfaskjfnasjfksaf
+                        <img src="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109-2.jpg" alt="" />
+                    I became interested in Circuit Board design and I wanted to learn how to make my own circuit boards. So after a few days of learning, and a few weeks of waiting, my first circuit board has arrived! It doesn't look like much, and there&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>this is a test so see if this even works</p>
-<p>AHdhSjbfaskjfnasjfksaf</p>
+                    <p><img src="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109.jpg" alt="" width="381" height="381" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/responsive/20250421_162109-xs.jpg 640w ,https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/responsive/20250421_162109-sm.jpg 768w ,https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/responsive/20250421_162109-md.jpg 1024w ,https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/responsive/20250421_162109-lg.jpg 1366w ,https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/responsive/20250421_162109-xl.jpg 1600w ,https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/responsive/20250421_162109-2xl.jpg 1920w"></figure>I became interested in Circuit Board design and I wanted to learn how to make my own circuit boards. So after a few days of learning, and a few weeks of waiting, my first circuit board has arrived!</p>
+<p>It doesn't look like much, and there is a lot of wasted space on the board, but for my first design I think it looks pretty good!</p>
             ]]>
         </content>
     </entry>
