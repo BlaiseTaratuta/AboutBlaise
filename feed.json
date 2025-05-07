@@ -9,21 +9,5 @@
         "name": "Blaise"
     },
     "items": [
-        {
-            "id": "https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html",
-            "url": "https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html",
-            "title": "I Designed My First Circuit Board",
-            "summary": "I became interested in Circuit Board design and I wanted to learn how to make my own circuit boards. So after a few days of learning, and a few weeks of waiting, my first circuit board has arrived! It doesn't look like much, and there&hellip;",
-            "content_html": "<p>I became interested in Circuit Board design and I wanted to learn how to make my own circuit boards. So after a few days of learning, and a few weeks of waiting, my first circuit board has arrived!</p>\n<p>It doesn't look like much, and there is a lot of wasted space on the board, but for my first design I think it looks pretty good!</p>",
-            "image": "https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109-2.jpg",
-            "author": {
-                "name": "Blaise"
-            },
-            "tags": [
-                   "My Projects"
-            ],
-            "date_published": "2024-07-03T15:00:00-04:00",
-            "date_modified": "2025-04-21T16:36:33-04:00"
-        }
     ]
 }

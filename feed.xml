@@ -3,35 +3,10 @@
     <title>Blaise&#x27;s Website</title>
     <link href="https://blaisetaratuta.github.io/AboutBlaise/feed.xml" rel="self" />
     <link href="https://blaisetaratuta.github.io/AboutBlaise" />
-    <updated>2025-04-21T16:36:33-04:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Blaise</name>
     </author>
     <id>https://blaisetaratuta.github.io/AboutBlaise</id>
 
-    <entry>
-        <title>I Designed My First Circuit Board</title>
-        <author>
-            <name>Blaise</name>
-        </author>
-        <link href="https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html"/>
-        <id>https://blaisetaratuta.github.io/AboutBlaise/test-project-post.html</id>
-        <media:content url="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109-2.jpg" medium="image" />
-            <category term="My Projects"/>
-
-        <updated>2024-07-03T15:00:00-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109-2.jpg" alt="" />
-                    I became interested in Circuit Board design and I wanted to learn how to make my own circuit boards. So after a few days of learning, and a few weeks of waiting, my first circuit board has arrived! It doesn't look like much, and there&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blaisetaratuta.github.io/AboutBlaise/media/posts/20/20250421_162109-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>I became interested in Circuit Board design and I wanted to learn how to make my own circuit boards. So after a few days of learning, and a few weeks of waiting, my first circuit board has arrived!</p>
-<p>It doesn't look like much, and there is a lot of wasted space on the board, but for my first design I think it looks pretty good!</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
